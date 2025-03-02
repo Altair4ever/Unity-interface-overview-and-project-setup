@@ -694,6 +694,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Idle
       objectReference: {fileID: 0}
+    - target: {fileID: 4493098921337207629, guid: b2fc9abc0e5ed4548930060ff05f256c, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4493098921337207629, guid: b2fc9abc0e5ed4548930060ff05f256c, type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6548336362273168827, guid: b2fc9abc0e5ed4548930060ff05f256c, type: 3}
       propertyPath: m_LocalScale.z
       value: 1

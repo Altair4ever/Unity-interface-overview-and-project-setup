@@ -9,6 +9,6 @@ public class SimpleTriggerEventBehaviour : MonoBehaviour
     {
         // Trigger the event and test with a debug message
         triggerEvent.Invoke();
-        Debug.Log("Player interacted with the object!");
+        Debug.Log("Get Hurt by nspikes");
     }
 }
